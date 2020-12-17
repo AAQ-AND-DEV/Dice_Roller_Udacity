@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dice Roller_Udacity</string>
+    <string name="hello_android">Hello Android!</string>
+    <string name="roll_button">roll</string>
+    <string name="default_roll">1</string>
+    <string name="dynamic_roll">Let\'s Roll!</string>
+    <string name="dice_image_cd">Dice Image</string>
+</resources>
